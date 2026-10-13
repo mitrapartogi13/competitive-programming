@@ -5,3 +5,8 @@ testing/
 cp-learning-mega-vault/
 CatTournament/
 BelajarCP/
+
+*
+!*/
+!*.cpp
+!*.c
