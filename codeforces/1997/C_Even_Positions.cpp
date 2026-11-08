@@ -17,7 +17,7 @@ constexpr int MOD = 1'000'000'007;
 void solve() {
     int n; cin >> n;
     string s; cin >> s;
-    s[0] = '(';
+    // s[0] = '(';
     ll balance = 0;
     for (int i = 0; i < s.size(); ++i) {
         if (s[i] == '('){
